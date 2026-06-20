@@ -25,4 +25,4 @@ products and tools for people who shoot, edit, and generate video with AI.
 
 ---
 
-<sub>**Just a film — cinema made simple.** · Просто фильм — кино это просто.</sub>
+<sub>**Just a film — cinema made simple.**</sub>
